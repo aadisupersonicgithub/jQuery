@@ -1,0 +1,13 @@
+.border {
+  border: 2px solid blue;
+}
+#zom-id {
+  position: relative;
+}
+.simple-image {
+  height: 150px;
+  width: 300px;
+}
+.myClass {
+  background-color: red;
+}
